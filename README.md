@@ -32,5 +32,5 @@ No. | Platform | Team Member | Project Name | Status
 22| | 于大江 | [FAST-algorithm-for-corner-detection](https://github.com/djgq2020/FAST-algorithm-for-corner-detection/blob/main/README.md) | in progress
 23| Alveo | 徐诚 | [从HLS层面将HBM与图算法相结合,实现pagerank或bfs算法](https://github.com/jerryxucheng/vitis) | in progress
 24|ALinx AX7020 | 任骥恺 | [HLS Implementation of LZ77 Data Compression Algorithm](https://github.com/bjrjk/HLS-LZ77) | in progress
-25| |王铉铮， 吴震宇 | [Using FPGA parellel computing to accelerate the FEA](https://github.com/LiloJade/FEA-on-FPGA) | in progress
+25| |王璇铮， 吴震宇 | [Using FPGA parellel computing to accelerate the FEA](https://github.com/LiloJade/FEA-on-FPGA) | in progress
 
