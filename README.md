@@ -13,7 +13,7 @@ No. | Platform | Team Member | Project Name | Status
 3| | 陆韦辛| [latex文本识别]( https://github.com/aceansgar/latex_recognition/blob/main/readme.md) | in progress
 4| zcu104| 丁圣杰| [智能硬件加速器的搭建](https://github.com/AI-Unicorn-D/Design-of-accelerator-based-on-zcu104/blob/main/README.md)| in progress
 5| zcu104| 郭慧 罗云臻| [利用Vitis AI部署CNN模型](https://github.com/CSU-GH/XilinxWinterCampProject)| in progress
-6| | Chao Chen | [使用HLS功能实现熵计算的数字电路计算IP](https://github.com/AllenChenChao/20210208HLS_for_entropy)| in progress
+6| | 陈超 | [使用HLS功能实现熵计算的数字电路计算IP](https://github.com/AllenChenChao/20210208HLS_for_entropy)| in progress
 7| ZYNQ7020 |戴卓辰 | [人脸检测](https://github.com/XS30/Face-detection-in-PYNQ) | in progress
 8| pynq-z2 | 陈桂荣 | [多通道卷积，通过脉动阵列实现性能优化](https://github.com/minicarbon/winter_camp_project) | in progress
 9| pynq-z1 | 边浩东 | [设计高性能并行接口SpMV](https://github.com/nulidangxueshen/2021_Xilinx_FPGA_SpMV/blob/main/README.md) | in progress
