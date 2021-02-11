@@ -38,5 +38,5 @@ No. | Platform | Team Member | Project Name | Status
 28| |李坚松 | [VTA: Deep Learning Accelerator Stack](https://gitee.com/json-lee/fpga-getting-started ) | in progress
 29| Alveo | 韩萌 | [tinyFPS:HLS-based Farthest point sampling Accelerator](https://github.com/hanm2019/tinyFPS) | in progress
 30| Alveo | 周聪 | [SRC-Vitis](https://github.com/sazczmh/SRC-Vitis) | in progress
-31| PYNQ-Z2/Kintex-7 series xc7k325tffg900 | 任兴 | [Signal tracking based on LMS](https://github.com/rx978871284/Signal-tracking-based-on-LMS.git) | in progress
+31| | 任兴 | [Signal tracking based on LMS](https://github.com/rx978871284/Signal-tracking-based-on-LMS.git) | in progress
 32| 
