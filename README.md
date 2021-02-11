@@ -20,7 +20,7 @@ No. | Platform | Team Member | Project Name | Status
 10|  | chenxiangren1 | [Partial hardware implementation of Groth16 algorithm](https://github.com/chenxiangren1/Groth16) | in progress
 11|Alveo |郭进阳 | [BFS Evaluation index](https://github.com/Jinyang-Guo/HBM-BFS) | in progress
 12| |刘珂，曹美|[基于PYNQ的Resize算法加速设计](https://github.com/onWayforever/Xilinx_winterCamp/blob/master/readMe.md)| in progress
-13| ZYNQ7010 |姚博文 |[基于ZYNQ和AlexNet网络实现手写数字识别](https://github.com/yobuwen/hello-one) | in progress
+13| |姚博文 |[基于ZYNQ和AlexNet网络实现手写数字识别](https://github.com/yobuwen/hello-one) | in progress
 14| pynq-z2 | 王光华 | [A project accelerate the CNN and deformable CNN in FPGA board](https://github.com/meicale/Acc_DeCNN_on_FPGA) | in progress
 15| pynq-z2 | 周洪涛 |[二值图标记算法](https://github.com/ZhouHunt/Two-Scan-Labeling-implemented-on-FPGA) | in progress
 16|xczu3eg-sfvc784-1-i | Introspecting| [DepthwiseCONV-HLS](https://github.com/Introspecting/DepthwiseCONV-HLS) | in progress
