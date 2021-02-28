@@ -9,7 +9,7 @@
 No. | Platform | Team Member | Project Name | Status
 -|-|-|-|-
 1| Alveo| 孔祥聪 黄莹| [Algorithm-hardware co-design for pulsar coherent de-dispersion algorithm on FPGA.](https://github.com/kongxiangcong/Pulsar-FPGA)| in progress
-2| | 张锦玉 |基于FPGA的模型预测控制算法加速| in progress
+2| zedboard| 张锦玉 | [基于FPGA的模型预测控制算法加速](https://github.com/zhang-jinyu/IIoT-SPYN/tree/2021_CN_WinterCamp)| in progress
 3| | 陆韦辛| [latex文本识别]( https://github.com/aceansgar/latex_recognition/blob/main/readme.md) | in progress
 4| zcu104| 丁圣杰| [智能硬件加速器的搭建](https://github.com/AI-Unicorn-D/Design-of-accelerator-based-on-zcu104/blob/main/README.md)| in progress
 5| zcu104| 郭慧 罗云臻| [利用Vitis AI部署CNN模型](https://github.com/CSU-GH/XilinxWinterCampProject)| in progress
@@ -32,7 +32,7 @@ No. | Platform | Team Member | Project Name | Status
 22| | 于大江 | [FAST-algorithm-for-corner-detection](https://github.com/djgq2020/FAST-algorithm-for-corner-detection/blob/main/README.md) | in progress
 23| Alveo | 徐诚 | [从HLS层面将HBM与图算法相结合,实现pagerank或bfs算法](https://github.com/jerryxucheng/vitis) | in progress
 24| Zynq7020 | 任骥恺 | [HLS Implementation of LZ77 Data Compression Algorithm](https://github.com/bjrjk/HLS-LZ77) | in progress
-25| |王璇铮 吴震宇 | [Using FPGA parellel computing to accelerate the FEA](https://github.com/LiloJade/FEA-on-FPGA) | in progress
+25| |王璇铮 吴震宇 | [Stencil computation on FPGA](https://github.com/KevinLikesDringCoffe/Stencil-computation-on-FPGA) | in progress
 26| |杨雨昕 宋涛 | [FPGA acceleration for TOPPRA algorithm](https://github.com/CICS-ICT/toppra-acceleration) | in progress
 27| |杜泽林 | [Accelerate the tiny-yolov2](https://github.com/duzelin/Convor.git) | in progress
 28| |李坚松 | [VTA: Deep Learning Accelerator Stack](https://gitee.com/json-lee/fpga-getting-started ) | in progress
