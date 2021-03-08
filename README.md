@@ -7,6 +7,8 @@
 北京大学，清华大学，计算所，浙江大学，北京工业大学，Xilinx等来自学术界工业界多位研究院与近200位老师和同学分享研讨了定制计算的前沿方向。  
 第一周是HLS强化班，帮助学员们提前熟悉Vivado HLS工具的使用，对Vivado HLS的基本原理，性能优化细节和相关编程技巧都进行了充足的介绍。  
 第二周则以Vitis相关讲座为主，帮助学员们熟悉了Vitis工具的使用，并且还邀请了领域内的专家对于深度学习加速器，存储与网络，虚拟化技术等热门话题给同学带来了精彩的演讲。
+本次冬令营也是Xilinx XACC(Xilinx Adaptive Compute Clusters)项目的一部分，以下为XACC项目的链接：
+*  [Xilinx Adaptive Compute Clusters](https://xilinx.github.io/xacc/)
 
 ## Course Materials:
 * [HLS Hands-on Labs](https://github.com/xupgit/High-Level-Synthesis-Flow-on-Zynq-using-Vivado-HLS)
@@ -14,10 +16,6 @@
 
 ## Other Materials:
 ![image](image/qrcode_Pynq_small.jpg)
-
-本次冬令营也是Xilinx XACC(Xilinx Adaptive Compute Clusters)项目的一部分，以下为XACC项目的链接：
-*  [Xilinx Adaptive Compute Clusters](https://xilinx.github.io/xacc/)
-
 
 ## Projects List
 
