@@ -1,6 +1,11 @@
 # 2021 Xilinx China Winter Camp
 
+## Introduction:
+2021冬令营为期两周，分为两个部分。第一周是HLS强化班，帮助学员们提前熟悉Vivado HLS工具的使用，对Vivado HLS的基本原理，性能优化细节和相关编程技巧都进行了充足的介绍。第二周则以Vitis相关讲座为主，帮助学员们熟悉了Vitis工具的使用，并且还邀请了领域内的专家对于深度学习加速器，存储与网络，虚拟化技术等热门话题给同学带来了精彩的演讲。
+
 ## Course Materials:
+
+### Course Tutorials:
 * [HLS Hands-on Labs](https://github.com/xupgit/High-Level-Synthesis-Flow-on-Zynq-using-Vivado-HLS)
 * [Vitis Hands-on Labs](https://xilinx.github.io/xup_compute_acceleration/)
 
