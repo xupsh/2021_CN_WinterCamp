@@ -1,6 +1,6 @@
 # 2021 Xilinx China Winter Camp
 
-![image](image/WinterCAMP2021-1.png)
+![image](image/WinterCAMP2021-1.PNG)
 
 ## Introduction:
 2021Xilinx冬令营为期两周，分为两个部分，共有近200位老师和同学参加了此次冬令营。第一周是HLS强化班，帮助学员们提前熟悉Vivado HLS工具的使用，对Vivado HLS的基本原理，性能优化细节和相关编程技巧都进行了充足的介绍。第二周则以Vitis相关讲座为主，帮助学员们熟悉了Vitis工具的使用，并且还邀请了领域内的专家对于深度学习加速器，存储与网络，虚拟化技术等热门话题给同学带来了精彩的演讲。
@@ -44,7 +44,7 @@ No. | Team Member | Project Name | Status
 23| 徐诚 | [从HLS层面将HBM与图算法相结合,实现pagerank或bfs算法](https://github.com/jerryxucheng/vitis) | 待更新
 24| 任骥恺 | [HLS Implementation of LZ77 Data Compression Algorithm](https://github.com/bjrjk/HLS-LZ77) | 完成
 25| 王璇铮 吴震宇 | [Stencil computation on FPGA](https://github.com/KevinLikesDringCoffe/Stencil-computation-on-FPGA) | 完成
-26| 杨雨昕 宋涛 | [FPGA acceleration for TOPPRA algorithm](https://github.com/CICS-ICT/toppra-acceleration) | 阶段完成
+26| 杨雨昕 宋涛 | [A Study of Inverse Kinematics Algorithm and Its System Architecture Implementation](https://github.com/CICS-ICT/ik-acceleration) | 阶段完成
 27| 杜泽林 | [Accelerate the tiny-yolov2](https://github.com/duzelin/Convor.git) | 完成
 28| 李坚松 | [VTA: Deep Learning Accelerator Stack](https://gitee.com/json-lee/fpga-getting-started ) | 完成
 29| 韩萌 | [tinyFPS:HLS-based Farthest point sampling Accelerator](https://github.com/hanm2019/tinyFPS) | 完成
