@@ -4,6 +4,10 @@
 * [HLS Hands-on Labs](https://github.com/xupgit/High-Level-Synthesis-Flow-on-Zynq-using-Vivado-HLS)
 * [Vitis Hands-on Labs](https://xilinx.github.io/xup_compute_acceleration/)
 
+### Course Videos:
+* [HLS Videos](https://mp.weixin.qq.com/s/6l4F3qRmtNPvODMi7z6a0A)
+* [Vitis Videos](https://mp.weixin.qq.com)
+
 ## Projects List
 
 No. | Platform | Team Member | Project Name | Status
