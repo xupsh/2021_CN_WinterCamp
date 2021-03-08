@@ -11,7 +11,8 @@
 
 ## Other Materials:
 ![image](image/qrcode_Pynq_small.jpg)
-此外，本次冬令营也是Xilinx XACC(Xilinx Adaptive Compute Clusters)项目的一部分，以下为XACC项目的链接：
+
+本次冬令营也是Xilinx XACC(Xilinx Adaptive Compute Clusters)项目的一部分，以下为XACC项目的链接：
 *  [Xilinx Adaptive Compute Clusters](https://xilinx.github.io/xacc/)
 
 
