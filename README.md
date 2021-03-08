@@ -1,11 +1,11 @@
 # 2021 Xilinx China Winter Camp
 
-![image](http://github.com/xupsh/2021_CN_WinterCamp/images/WinterCAMP2021-1.jpg)
+![image](http://github.com/xupsh/2021_CN_WinterCamp/image/WinterCAMP2021-1.jpg)
 
 ## Introduction:
 2021Xilinx冬令营为期两周，分为两个部分，共有近200位老师和同学参加了此次冬令营。第一周是HLS强化班，帮助学员们提前熟悉Vivado HLS工具的使用，对Vivado HLS的基本原理，性能优化细节和相关编程技巧都进行了充足的介绍。第二周则以Vitis相关讲座为主，帮助学员们熟悉了Vitis工具的使用，并且还邀请了领域内的专家对于深度学习加速器，存储与网络，虚拟化技术等热门话题给同学带来了精彩的演讲。
-![image](http://github.com/xupsh/2021_CN_WinterCamp/images/QQ图片20210308161539.jpg)
-![image](http://github.com/xupsh/2021_CN_WinterCamp/images/QQ图片20210308162606.jpg)
+![image](http://github.com/xupsh/2021_CN_WinterCamp/image/QQ图片20210308161539.jpg)
+![image](http://github.com/xupsh/2021_CN_WinterCamp/image/QQ图片20210308162606.jpg)
 
 ## Course Materials:
 * [HLS Hands-on Labs](https://github.com/xupgit/High-Level-Synthesis-Flow-on-Zynq-using-Vivado-HLS)
@@ -13,7 +13,7 @@
 * [Xilinx Adaptive Compute Clusters](https://xilinx.github.io/xacc/)
 
 ## Other Materials:
-![image](http://github.com/xupsh/2021_CN_WinterCamp/images/qrcode_Pynq_small.jpg)
+![image](http://github.com/xupsh/2021_CN_WinterCamp/image/qrcode_Pynq_small.jpg)
 
 ## Projects List
 
