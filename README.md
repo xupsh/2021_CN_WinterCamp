@@ -39,39 +39,44 @@
 
 ![image](image/qrcode_Pynq_small.jpg)
 
-## Projects List
+## Featured Projects
 
 No. | Team Member | Project Name | Status
 -|-|-|-
 1| 孔祥聪 黄莹| [Algorithm-hardware co-design for pulsar coherent de-dispersion algorithm on FPGA.](https://github.com/kongxiangcong/Pulsar-FPGA)| 完成
 2| 张锦玉 | [基于FPGA的模型预测控制算法加速](https://github.com/zhang-jinyu/IIoT-SPYN/tree/2021_CN_WinterCamp)| 完成
-3| 陆韦辛| [latex文本识别]( https://github.com/aceansgar/latex_recognition/blob/main/readme.md) | 待更新
-4| 丁圣杰| [智能硬件加速器的搭建](https://github.com/AI-Unicorn-D/Design-of-accelerator-based-on-zcu104/blob/main/README.md)| 待更新
-5| 郭慧 罗云臻| [利用Vitis AI部署CNN模型](https://github.com/CSU-GH/XilinxWinterCampProject)| 完成
-6| 陈超 | [使用HLS功能实现熵计算的数字电路计算IP](https://github.com/AllenChenChao/20210208HLS_for_entropy)| 完成
-7| 戴卓辰 | [人脸检测](https://github.com/XS30/Face-detection-in-PYNQ) | 完成
-8| 陈桂荣 | [多通道卷积，通过脉动阵列实现性能优化](https://github.com/minicarbon/winter_camp_project) | 完成
-9| 边浩东 | [设计高性能并行接口SpMV](https://github.com/nulidangxueshen/2021_Xilinx_FPGA_SpMV/blob/main/README.md) | 待更新
-10| chenxiangren1 | [Partial hardware implementation of Groth16 algorithm](https://github.com/chenxiangren1/Groth16) | 完成
-11| 郭进阳 | [BFS Evaluation index](https://github.com/Jinyang-Guo/HBM-BFS) | 待更新
-12| 刘珂，曹美|[基于PYNQ的Resize算法加速设计](https://github.com/onWayforever/Xilinx_winterCamp/blob/master/readMe.md)| 完成
-13| 姚博文 |[基于ZYNQ和AlexNet网络实现手写数字识别](https://github.com/yobuwen/hello-one) | 完成
-14| 王光华 | [A project accelerate the CNN and deformable CNN in FPGA board](https://github.com/meicale/Acc_DeCNN_on_FPGA) | 完成
-15| 周洪涛 |[二值图标记算法](https://github.com/ZhouHunt/Two-Scan-Labeling-implemented-on-FPGA) | 完成
-16| Introspecting| [DepthwiseCONV-HLS](https://github.com/Introspecting/DepthwiseCONV-HLS) | 完成
-17| 谢坤鹏 | [基于Alveo平台的眼底网络实现 尝试使用FINN框架部署lenet5网络模型](https://github.com/xiekunpeng/Xilinx_Wintercamp) | 待更新
-18| 周炎亮 | [Using FPGAs to accelerate BFS algorithm](https://github.com/triode-zyl/BFS-on-FPGA) | 完成
-19| 赵海旭| [利用FPGA提升SHA256加密算法速度](https://github.com/zhaohaixu/SHA256-FPGA-HLS) | 完成
-20| 卢浩迪 | [FPGA-based data migration of network access](https://github.com/Lhoddy/fpga_demo) | 完成
-21| 于泽霖 | [A simple MIPS-like CPU demo in C++ for Xilinx Vivado HLS](https://github.com/junglehust/Vivado_HLS-Demo/blob/main/README.md) | 完成
-22| 于大江 | [FAST-algorithm-for-corner-detection](https://github.com/djgq2020/FAST-algorithm-for-corner-detection/blob/main/README.md) | 完成
-23| 徐诚 | [从HLS层面将HBM与图算法相结合,实现pagerank或bfs算法](https://github.com/jerryxucheng/vitis) | 待更新
-24| 任骥恺 | [HLS Implementation of LZ77 Data Compression Algorithm](https://github.com/bjrjk/HLS-LZ77) | 完成
-25| 王璇铮 吴震宇 | [Stencil computation on FPGA](https://github.com/KevinLikesDringCoffe/Stencil-computation-on-FPGA) | 完成
-26| 杨雨昕 宋涛 | [A Study of Inverse Kinematics Algorithm and Its System Architecture Implementation](https://github.com/CICS-ICT/ik-acceleration) | 完成
-27| 杜泽林 | [Accelerate the tiny-yolov2](https://github.com/duzelin/Convor.git) | 完成
-28| 李坚松 | [VTA: Deep Learning Accelerator Stack](https://gitee.com/json-lee/fpga-getting-started ) | 完成
-29| 韩萌 | [tinyFPS:HLS-based Farthest point sampling Accelerator](https://github.com/hanm2019/tinyFPS) | 完成
-30| 周聪 | [SRC-Vitis](https://github.com/sazczmh/SRC-Vitis) | 完成
-31| 任兴 | [Signal tracking based on LMS](https://github.com/rx978871284/Signal-tracking-based-on-LMS.git) | 完成
-32| 
+3| 卢浩迪 | [FPGA-based data migration of network access](https://github.com/Lhoddy/fpga_demo) | 完成
+4| 任骥恺 | [HLS Implementation of LZ77 Data Compression Algorithm](https://github.com/bjrjk/HLS-LZ77) | 完成
+5| 王璇铮 吴震宇 | [Stencil computation on FPGA](https://github.com/KevinLikesDringCoffe/Stencil-computation-on-FPGA) | 完成
+6| 杨雨昕 宋涛 | [A Study of Inverse Kinematics Algorithm and Its System Architecture Implementation](https://github.com/CICS-ICT/ik-acceleration) | 完成
+7| 杜泽林 | [Accelerate the tiny-yolov2](https://github.com/duzelin/Convor.git) | 完成
+
+## Other Projects
+
+No. | Team Member | Project Name | Status
+-|-|-|-
+1| 郭慧 罗云臻| [利用Vitis AI部署CNN模型](https://github.com/CSU-GH/XilinxWinterCampProject)| 完成
+2| 陈超 | [使用HLS功能实现熵计算的数字电路计算IP](https://github.com/AllenChenChao/20210208HLS_for_entropy)| 完成
+3| 戴卓辰 | [人脸检测](https://github.com/XS30/Face-detection-in-PYNQ) | 完成
+4| 陈桂荣 | [多通道卷积，通过脉动阵列实现性能优化](https://github.com/minicarbon/winter_camp_project) | 完成
+5| chenxiangren1 | [Partial hardware implementation of Groth16 algorithm](https://github.com/chenxiangren1/Groth16) | 完成
+6| 刘珂，曹美|[基于PYNQ的Resize算法加速设计](https://github.com/onWayforever/Xilinx_winterCamp/blob/master/readMe.md)| 完成
+7| 姚博文 |[基于ZYNQ和AlexNet网络实现手写数字识别](https://github.com/yobuwen/hello-one) | 完成
+8| 王光华 | [A project accelerate the CNN and deformable CNN in FPGA board](https://github.com/meicale/Acc_DeCNN_on_FPGA) | 完成
+9| 周洪涛 |[二值图标记算法](https://github.com/ZhouHunt/Two-Scan-Labeling-implemented-on-FPGA) | 完成
+10| Introspecting| [DepthwiseCONV-HLS](https://github.com/Introspecting/DepthwiseCONV-HLS) | 完成
+11| 周炎亮 | [Using FPGAs to accelerate BFS algorithm](https://github.com/triode-zyl/BFS-on-FPGA) | 完成
+12| 赵海旭| [利用FPGA提升SHA256加密算法速度](https://github.com/zhaohaixu/SHA256-FPGA-HLS) | 完成
+13| 于大江 | [FAST-algorithm-for-corner-detection](https://github.com/djgq2020/FAST-algorithm-for-corner-detection/blob/main/README.md) | 完成
+14| 李坚松 | [VTA: Deep Learning Accelerator Stack](https://gitee.com/json-lee/fpga-getting-started ) | 完成
+15| 韩萌 | [tinyFPS:HLS-based Farthest point sampling Accelerator](https://github.com/hanm2019/tinyFPS) | 完成
+16| 周聪 | [SRC-Vitis](https://github.com/sazczmh/SRC-Vitis) | 完成
+17| 任兴 | [Signal tracking based on LMS](https://github.com/rx978871284/Signal-tracking-based-on-LMS.git) | 完成
+18| 姜有亮 | [基于Ultra96-V2平台加速一种卷积神经网络](https://github.com/cocoyomi/Accelerate-ConvNet-on-Ultra96V2) | 完成
+19| 陆韦辛| [latex文本识别]( https://github.com/aceansgar/latex_recognition/blob/main/readme.md) | 待更新
+20| 丁圣杰| [智能硬件加速器的搭建](https://github.com/AI-Unicorn-D/Design-of-accelerator-based-on-zcu104/blob/main/README.md)| 待更新
+21| 边浩东 | [设计高性能并行接口SpMV](https://github.com/nulidangxueshen/2021_Xilinx_FPGA_SpMV/blob/main/README.md) | 待更新
+22| 郭进阳 | [BFS Evaluation index](https://github.com/Jinyang-Guo/HBM-BFS) | 待更新
+23| 谢坤鹏 | [基于Alveo平台的眼底网络实现 尝试使用FINN框架部署lenet5网络模型](https://github.com/xiekunpeng/Xilinx_Wintercamp) | 待更新
+24| 于泽霖 | [A simple MIPS-like CPU demo in C++ for Xilinx Vivado HLS](https://github.com/junglehust/Vivado_HLS-Demo/blob/main/README.md) | 待更新
+25| 徐诚 | [从HLS层面将HBM与图算法相结合,实现pagerank或bfs算法](https://github.com/jerryxucheng/vitis) | 待更新
