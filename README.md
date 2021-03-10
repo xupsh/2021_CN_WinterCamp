@@ -47,7 +47,7 @@ No. | Team Member | Project Name | Status
 2| 张锦玉 | [基于FPGA的模型预测控制算法加速](https://github.com/zhang-jinyu/IIoT-SPYN/tree/2021_CN_WinterCamp)| 完成
 3| 卢浩迪 | [FPGA-based data migration of network access](https://github.com/Lhoddy/fpga_demo) | 完成
 4| 任骥恺 | [HLS Implementation of LZ77 Data Compression Algorithm](https://github.com/bjrjk/HLS-LZ77) | 完成
-5| 王璇铮 吴震宇 | [Stencil computation on FPGA](https://github.com/KevinLikesDringCoffe/Stencil-computation-on-FPGA) | 完成
+5| 王璇铮 吴震宇  | [Stencil computation on FPGA](https://github.com/KevinLikesDringCoffe/Stencil-computation-on-FPGA) | 完成
 6| 杨雨昕 宋涛 | [A Study of Inverse Kinematics Algorithm and Its System Architecture Implementation](https://github.com/CICS-ICT/ik-acceleration) | 完成
 7| 杜泽林 | [Accelerate the tiny-yolov2](https://github.com/duzelin/Convor.git) | 完成
 
