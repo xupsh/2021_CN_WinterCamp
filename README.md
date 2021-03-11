@@ -29,6 +29,7 @@
 2月3日 | Parallel graph processing on heterogenous architectures，VITIS Lib如HPC，CV，Database
 2月4日 | SmartSSD-数据与计算存储，Towards Distributed Adaptive Computing，FPGA on cloud and datacenters
 2月5日 | FPGA虚拟化，FPGA云编译平台YEDA，资源分享
+2月6日-3月6日 | 项目设计期
 
 ## Course Materials:
 * [HLS Hands-on Labs](https://github.com/xupgit/High-Level-Synthesis-Flow-on-Zynq-using-Vivado-HLS)
