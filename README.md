@@ -59,7 +59,7 @@ No. | Team Member | Project Name | Status
 2| 陈超 | [使用HLS功能实现熵计算的数字电路计算IP](https://github.com/AllenChenChao/20210208HLS_for_entropy)| 完成
 3| 戴卓辰 | [人脸检测](https://github.com/XS30/Face-detection-in-PYNQ) | 完成
 4| 陈桂荣 | [多通道卷积，通过脉动阵列实现性能优化](https://github.com/minicarbon/winter_camp_project) | 完成
-5| chenxiangren1 | [Partial hardware implementation of Groth16 algorithm](https://github.com/chenxiangren1/Groth16) | 完成
+5| 陈相任 | [Partial hardware implementation of Groth16 algorithm](https://github.com/chenxiangren1/Groth16) | 完成
 6| 刘珂，曹美|[基于PYNQ的Resize算法加速设计](https://github.com/onWayforever/Xilinx_winterCamp/blob/master/readMe.md)| 完成
 7| 姚博文 |[基于ZYNQ和AlexNet网络实现手写数字识别](https://github.com/yobuwen/hello-one) | 完成
 8| 王光华 | [A project accelerate the CNN and deformable CNN in FPGA board](https://github.com/meicale/Acc_DeCNN_on_FPGA) | 完成
