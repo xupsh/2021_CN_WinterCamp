@@ -19,16 +19,16 @@
 
 日期 | 主题
 -|-
-1月25日 | Vivado HLS原理，HLS Lab 1-2
-1月26日 | Vivado HLS性能优化，HLS Lab 3-4
-1月27日 | Vivado HLS编程技巧讨论，PYNQ框架
+1月25日 | HLS原理，HLS Lab 1-2
+1月26日 | HLS性能优化，HLS Lab 3-4
+1月27日 | HLS编程技巧讨论，PYNQ框架
 1月28日 | 实验：深度学习加速器HLS设计，实验：PP4FPGAs
-1月29日 | AI加速器设计研讨，深度学习加速器课程研讨
-2月1日 | 面向机器学习的可重构计算，VITIS 技术剖析，Lab：VITIS Intro Part1 Part2
-2月2日 | 定制AI加速器设计，DAC2020-SDC冠军队伍作品分享，HBM性能优化，Lab：VITIS Improving Performance
-2月3日 | Parallel graph processing on heterogenous architectures，VITIS Lib如HPC，CV，Database
-2月4日 | SmartSSD-数据与计算存储，Towards Distributed Adaptive Computing，FPGA on cloud and datacenters
-2月5日 | FPGA虚拟化，FPGA云编译平台YEDA，资源分享
+1月29日 | HLS深度学习加速器设计与课程研讨
+2月1日 | **讲座** *面向机器学习的可重构计算，VITIS技术深度剖析* **实验**：VITIS Intro Part1 Part2
+2月2日 | **讲座** *定制AI加速器设计，DAC2020-SDC冠军队伍作品分享，HBM性能优化* **实验**：VITIS Improving Performance
+2月3日 | **讲座** *Parallel graph processing on heterogenous architectures*，**实验** *VITIS Open Source Lib*
+2月4日 | **讲座** *SmartSSD-数据与计算存储，Towards Distributed Adaptive Computing* 
+2月5日 | **讲座** *FPGA虚拟化，FPGA云编译平台YEDA，资源分享*
 2月6日-3月6日 | 项目设计期
 
 ## Course Materials:
