@@ -5,17 +5,17 @@
 ## Introduction:
 2021年1月25日至2月5日，为期两周的冬令营*由CCF体系结构专委会主办，北京大学高能效计算与应用中心与Xilinx学术合作联合承办。  
 北京大学，清华大学，计算所，浙江大学，北京工业大学，Xilinx等来自学术界工业界多位研究院与近200位老师和同学分享研讨了定制计算的前沿方向。  
+本次冬令营同时也介绍了**Xilinx Adaptive Compute Clusters（XACC)**，以下为XACC项目的链接：
+*  [Xilinx Adaptive Compute Clusters](https://xilinx.github.io/xacc/)
+
+## Agenda
 **第一周**为HLS强化班，对Vivado HLS的基本原理，性能优化细节和相关编程技巧都进行了充足的实践    
 **第二周**以面向以下领域介绍了的计算加速从算法到硬件，同时也帮助学员们熟悉了Vitis工具的使用  
 *-深度学习加速器  
 -数据库  
 -图计算  
 -存储与网络  
--虚拟化技术*  
-本次冬令营同时也介绍了**Xilinx Adaptive Compute Clusters（XACC)**，以下为XACC项目的链接：
-*  [Xilinx Adaptive Compute Clusters](https://xilinx.github.io/xacc/)
-
-## Schedule
+-虚拟化技术* 
 
 日期 | 主题
 -|-
